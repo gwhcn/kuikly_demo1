@@ -30,3 +30,4 @@ include(":androidApp")
 include(":shared")
 include(":kmp_biz")
 project(":shared").buildFileName = buildFileName
+project(":kmp_biz").buildFileName = buildFileName
